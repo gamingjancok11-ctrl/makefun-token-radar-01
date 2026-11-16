@@ -1,6 +1,8 @@
 # Token Radar
 
-[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/gamingjancok11-ctrl/makefun-token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/gamingjancok11-ctrl/makefun-token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 A radar over the DefiLlama protocol index: every protocol that records no token
 yet, ranked by what its launch would be worth, each with a farm plan. Built by
@@ -85,3 +87,7 @@ sizing-and-log step. Every step states what it costs and how long it takes.
 - `vendor/makefun-board.ts` — make.fun's dossier library, as the kit ships it
 - `dashboard/` — the static page: `index.html`, `app.css`, `app.js`
 - `screenshots/` — the board, a protocol's detail view, a filtered view
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fz2026e2&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
